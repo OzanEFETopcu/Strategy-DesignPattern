@@ -1,2 +1,10 @@
+com\example\structure\FlyBehaviour\FlyBehaviour.class
+com\example\structure\QuackBehaviour\QuackBehaviour.class
+com\example\structure\QuackBehaviour\Squeak.class
+com\example\structure\FlyBehaviour\FlyWithWings.class
+com\example\structure\QuackBehaviour\MuteQuack.class
+com\example\structure\QuackBehaviour\Quack.class
 com\example\structure\DuckTypes\MallardDuck.class
+com\example\structure\DuckTypes\RubberDuck.class
+com\example\structure\FlyBehaviour\FlyNoWay.class
 com\example\structure\DuckTypes\RedheadDuck.class
